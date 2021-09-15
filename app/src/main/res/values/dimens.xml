@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <color name="fab_color">@color/black</color>
+</resources>
